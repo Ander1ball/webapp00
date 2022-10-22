@@ -2,9 +2,6 @@
   
 #import the library
 import streamlit as st
- 
-image =Image.open('repository-open-graph-template (2).png')
-
   
 # Use st.title("") para adicionar um TÍTULO ao seu Web app
 st.title("Minecreft")
