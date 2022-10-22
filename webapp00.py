@@ -3,6 +3,8 @@
 #import the library
 import streamlit as st
   
+st.image(image01, width=800, caption='steve-e-alex-minecraft.webp') 
+
 # Use st.title("") para adicionar um TÍTULO ao seu Web app
 st.title("Minecreft")
 
