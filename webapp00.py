@@ -10,6 +10,8 @@ st.title("Minecreft")
 # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
 st.header("Historia do jogo quadrado")
 
+st.subheader("coisa aleatoria")
+
 # Use st.write("") para adicionar um texto ao seu Web app
 st.write("O jogo conhecido como o jogo quadrado teve o seu lançamento em 18 de novembro de 2011, onde foi notado muitas caracteristicas marcantes do jogo,como por exemplo, o fato dele ser totalmente quadrado em até mesmo em seus personagens.Seu personagens no inicio eram somente um o canonico Steve, mas em setembro de 2014 foi adicionada a personagem Alex.")
 
