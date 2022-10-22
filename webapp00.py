@@ -15,7 +15,6 @@ st.subheader("O jogo conhecido como o jogo quadrado teve o seu lançamento em 18
 # Use st.write("") para adicionar um texto ao seu Web app
 st.write("Como já deve ter percebido, o método st.write() é usado para escrita de texto e informações gerais!")
 
-       ["Inserir_Figura"]
 elif choice == "Inserir_Figura":
     st.image(image01, width=800, caption='Rótulo da Imagem 01') 
     
