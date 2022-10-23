@@ -2,6 +2,8 @@
 #import the libraries
 import streamlit as st
 
+image01  =  Imagem . open ( 'panda.jpg')
+
 # Use st.title("") para adicionar um TÍTULO ao seu Web app
 st.title("Minecreft")
 
